@@ -1,0 +1,12 @@
+# Ignorar arquivos de log  
+*.log  
+
+# Ignorar diretórios de dependências  
+node_modules/  
+
+# Ignorar arquivos temporários  
+*.tmp  
+
+# Ignorar arquivos específicos  
+secret.txt
+.env
