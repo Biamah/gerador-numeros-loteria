@@ -10,3 +10,8 @@ node_modules/
 # Ignorar arquivos específicos  
 secret.txt
 .env
+
+# Ignorar arquivos de banco de dados
+database.sqlite
+*.sqlite
+*.sqlite3
